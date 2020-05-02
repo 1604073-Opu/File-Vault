@@ -5,7 +5,7 @@ A file locker with application with Face-lock.
 A simple file locker with python using Tkinter for GUI.\
 User can login using username & password and then set facelock. File locking is easy. Just press the 'Lock File' button select the file. The file is encrypted using **AES**. User can unlock the file by clicking button. File will be decrypted automatically. Face lock can be set and reset by pressing the facelock icon.
 
-##Dataset
+## Dataset
 http://vis-www.cs.umass.edu/lfw/
 
 ## How Does Is Work
